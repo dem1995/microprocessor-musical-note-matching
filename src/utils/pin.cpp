@@ -4,7 +4,7 @@
  *  Created on: Feb 6, 2019
  *      Author: David "Dawn" Estes McKnight
  */
-#include "src/pin.h"
+#include "pin.h"
 
 pin::pin()
 {

@@ -9,7 +9,7 @@
 #define PIN_H_
 
 #include <string>
-#include "src/FIOprep.h"
+#include "FIOprep.h"
 
 /**
  * A class to simplify the usage of pins for DDL projects.

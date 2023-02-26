@@ -9,7 +9,7 @@
 #define NOTE_GENERATION_H_
 #define DACR (*(volatile unsigned int *)0x4008C000)
 
-#include "src/music/wave_creation.h"
+#include "wave_creation.h"
 
 /**
  * Generates a ready-for-output-on-the-LM386 audio wave with the
