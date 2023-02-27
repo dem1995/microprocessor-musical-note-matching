@@ -5,10 +5,10 @@
 #include <cmath>
 #include <climits>
 #include <src/stdlib.h>
-#include "src/utils/pin.h"
-#include "src/utils/timer.h"
-#include "src/music/wave_creation.h"
-#include "src/music/note_generation.h"
+#include "utils/pin.h"
+#include "utils/timer.h"
+#include "music/wave_creation.h"
+#include "music/note_generation.h"
 
 #define PINSEL1 (*(volatile int*)0x4002C004)
 #define PINMODE1 (*(volatile int*)0x4002C044)
