@@ -7,5 +7,5 @@ The purpose of this project was to create a musical training game. Gameplay cons
 Upon startup, a short piece of music is played to the user using the sounds that they’ll be training on. The game then plays a note randomly selected from the scale; when the user correctly plays the note an octave above it in response, the game gives a confirmation sound effect and plays a new note. The process of the game playing a note and awaiting the proper response from the user continues until the end of the game.
 
 
-# Documentation
+## Documentation
 See the attached documentation.pdf for how the audio amplification circuitry and game programming (including DAC sine-wave production and input) work.
